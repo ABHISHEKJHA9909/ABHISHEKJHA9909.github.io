@@ -64,7 +64,7 @@ const intro = () => {
 const func = () => {
     intro();
     project("To Do App", "HTML-5 Bootstrap Javascript", "The basic Idea behind this project is to work effectively using to do list.", 'projects/to do app/index.html');
-    project("Caeser Cipher Encryption and Decryption", "C++ ", `This encryption and decryption tool is built using c++ and using trie data structure for dictionary check.
+    project("Caesar Cipher Encryption and Decryption", "C++ ", `This encryption and decryption tool is built using c++ and using trie data structure for dictionary check.
     It aims to decrypt Caesar Cipher encrypted text using a dictionary count algorithm.`, 'https://github.com/ABHISHEKJHA9909/Caesar-cipher');
     project("Password Manager","C++ Oops",`This tool is built using C++ and the concept of OOPS and everytime it has a password with minimum 2 uppercase,2 lowercase, 2 digit, 2 special characters.
     It aims to create unique and strong passwords`,"https://github.com/ABHISHEKJHA9909/Password-manager");
