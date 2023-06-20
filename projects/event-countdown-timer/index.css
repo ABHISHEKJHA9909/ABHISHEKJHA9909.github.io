@@ -30,3 +30,9 @@ button,section{
     width: 90%; 
     border-radius: 5px;
 }
+
+@media (max-width: 480px) {
+    #main {
+        height: 95%;
+    }
+}
