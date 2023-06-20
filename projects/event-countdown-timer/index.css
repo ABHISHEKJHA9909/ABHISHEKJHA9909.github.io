@@ -1,0 +1,19 @@
+html,body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color:white;
+}
+
+#main{
+    background-color:#007f7f ;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#create,#timer{
+    background-color:#004c4c;
+    padding: 5px; margin: 5px;
+    width: 90%; 
+}
