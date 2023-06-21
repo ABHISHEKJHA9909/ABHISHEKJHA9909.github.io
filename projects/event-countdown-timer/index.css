@@ -19,6 +19,10 @@ button,section{
 
 
 #main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
     background-color:#007f7f ;
     padding: 10px;
     border-radius: 15px;
